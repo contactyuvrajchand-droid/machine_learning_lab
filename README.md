@@ -1,7 +1,7 @@
 # ~linear Regression on big Data
 
 # Problem Statement
-
+<!--
 The objective of this project was to develop and evaluate a scalable machine learning solution for predicting diabetes disease progression using patient clinical measurements. Traditional machine learning approaches may become inefficient when handling large datasets due to computational and memory constraints. Therefore, Apache Spark was utilized to build a distributed data processing and machine learning pipeline capable of efficiently managing data preprocessing, model training, and evaluation.
 
  The project aimed to:
@@ -90,3 +90,4 @@ A bar chart was generated using Matplotlib to visually compare:
 .RMSE
 .R² Score
 across all three regression models, allowing for easier identification of the best-performing approach.
+-->
