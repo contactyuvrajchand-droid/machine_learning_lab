@@ -81,7 +81,7 @@
 ### .Mean Squared Error (MSE): Measures average squared prediction error.
 ### .Root Mean Squared Error (RMSE): Indicates prediction error in the original target units.
 ### .R² Score: Measures the proportion of variance explained by the model.
-## he evaluation results were used to compare the predictive performance of Linear Regression, Lasso Regression, and Ridge Regression.
+## The evaluation results were used to compare the predictive performance of Linear Regression, Lasso Regression, and Ridge Regression.
 
 ## 8. Visualization
 
